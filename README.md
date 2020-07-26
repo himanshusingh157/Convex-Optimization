@@ -1,4 +1,4 @@
-# Coding Assignment os Convex Optimization
+# Coding Assignment of Convex Optimization @IISC,Bangalore
 
 Question 3iii, 3iv not uploaded cause cvxpy throwing DCP error
 
